@@ -14,6 +14,6 @@ Deployment info
 More deployment info.
 
 ## How to Contribute
-Please fork this repository and issue a PR for review.
+Please fork this repository and issue a PR for review. Blah blah
 
 ### Copyright Notice

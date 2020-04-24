@@ -13,6 +13,6 @@ Sample website with plenty of files for demos
 Deployment info
 
 ## How to Contribute
-
+Please fork this repository and issue a PR for review.
 
 ### Copyright Notice
